@@ -1,7 +1,7 @@
 # r3dteamtoolkit
 🔴 RECONNAISSANCE:
-- RustScan ==> https://lnkd.in/ebvRfBNy
-- NmapAutomator ==> https://lnkd.in/gu5wxzf6
+- RustScan ==> https://github.com/bee-san/RustScan
+- NmapAutomator ==> https://github.com/21y4d/nmapAutomator
 - AutoRecon ==> https://lnkd.in/g3DeG6YT
 - Amass ==> https://lnkd.in/e7V569N5
 - CloudEnum ==> https://lnkd.in/ePHDeGZv
