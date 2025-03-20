@@ -10,13 +10,13 @@
 - DNSDumpster ==> https://dnsdumpster.com/
  
 🔴 INITIAL ACCESS:
-- SprayingToolKit ==> https://lnkd.in/eBSAPz5z
-- o365Recon ==> https://lnkd.in/eJwCx-Ga
-- Psudohash ==> https://lnkd.in/gcaxV6fR
-- CredMaster ==> https://lnkd.in/gtMEDVuS
-- DomainPasswordSpray ==> https://lnkd.in/guWj4TYv
-- TheSprayer ==> https://lnkd.in/gZVuQYiv
-- TREVORspray ==> https://lnkd.in/gHgcbjgV
+- SprayingToolKit ==> https://github.com/byt3bl33d3r/SprayingToolkit
+- o365Recon ==> https://github.com/nyxgeek/o365recon
+- Psudohash ==> https://github.com/t3l3machus/psudohash
+- CredMaster ==> https://github.com/knavesec/CredMaster
+- DomainPasswordSpray ==> https://github.com/dafthack/DomainPasswordSpray
+- TheSprayer ==> https://github.com/coj337/TheSprayer
+- TREVORspray ==> https://github.com/blacklanternsecurity/TREVORspray
  
 🔴 DELIVERY:
 - o365AttackToolKit ==> https://lnkd.in/etCCYi8y
